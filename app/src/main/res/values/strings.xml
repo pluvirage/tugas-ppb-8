@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reminderss</string>
+    <string-array name="event_array">
+        <item>Go To Doctor</item>
+        <item>Coocking</item>
+        <item>Gym</item>
+        <item>Pay Tax</item>
+        <item>Sleep</item>
+        <item>Wake Up</item>
+    </string-array>
+</resources>
